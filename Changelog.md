@@ -31,4 +31,18 @@
 
 - Nada
 
+## [Versió 3.0.0] - 11/11/2023
+
+### Añadido
+
+- Funcionalidad G: Migración a MVVM
+
+
+### Cambiado
+
+- Funcionalidad D: Conexión al adapter y repository
+
+### Eliminado
+
+- Nada
 
