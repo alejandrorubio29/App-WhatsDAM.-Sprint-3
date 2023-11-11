@@ -1,10 +1,9 @@
-package com.pdmp.ieseljust.whatsdam
+package com.pdmp.ieseljust.whatsdam.view.ui
 
 import android.content.Intent
 import android.util.Patterns
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.recyclerview.widget.LinearLayoutManager
 
 import com.pdmp.ieseljust.whatsdam.databinding.ActivityMainBinding
 

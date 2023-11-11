@@ -1,8 +1,10 @@
-package com.pdmp.ieseljust.whatsdam
+package com.pdmp.ieseljust.whatsdam.viewmodel
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.pdmp.ieseljust.whatsdam.R
+import com.pdmp.ieseljust.whatsdam.model.Missatges
 
 class AdaptadorMissatges: RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 

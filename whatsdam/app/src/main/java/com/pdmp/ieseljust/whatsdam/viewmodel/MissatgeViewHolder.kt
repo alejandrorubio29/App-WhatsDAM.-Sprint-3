@@ -1,9 +1,11 @@
-package com.pdmp.ieseljust.whatsdam
+package com.pdmp.ieseljust.whatsdam.viewmodel
 
 import android.icu.text.SimpleDateFormat
 import android.view.View
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.pdmp.ieseljust.whatsdam.R
+import com.pdmp.ieseljust.whatsdam.model.Missatge
 import java.util.Date
 
 

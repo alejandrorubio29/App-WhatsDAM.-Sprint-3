@@ -1,4 +1,4 @@
-package com.pdmp.ieseljust.whatsdam
+package com.pdmp.ieseljust.whatsdam.model
 
 object Missatges {
 

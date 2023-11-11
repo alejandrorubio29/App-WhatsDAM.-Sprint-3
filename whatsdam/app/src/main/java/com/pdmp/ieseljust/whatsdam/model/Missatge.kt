@@ -1,4 +1,4 @@
-package com.pdmp.ieseljust.whatsdam
+package com.pdmp.ieseljust.whatsdam.model
 
 import java.io.Serializable
 
